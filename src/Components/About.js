@@ -28,6 +28,7 @@ export default function About(props) {
         <p class="card-text"><small class="text-body-secondary">One Solution for all your text Related Problems</small></p>
         <p class="card-text my-0"><strong class="text-body-secondary">Made By : Rishabh Kanaujiya</strong></p>
         <p class="card-text my-0"><strong class="text-body-secondary">rishabhk5236@gmail.com</strong></p>
+        <a class="card-text my-0" href="https://www.linkedin.com/in/rishabh-kanaujiya-49643a222/" target='_blank'><strong class="text-body-secondary" >Linked In</strong></a>
       </div>
     </div>
   </div>
